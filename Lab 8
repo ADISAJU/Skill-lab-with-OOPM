@@ -1,4 +1,4 @@
-package enheritence;
+package inheritence;
 import java.util.Scanner;
 class Person{
 Scanner in = new Scanner(System.in);
